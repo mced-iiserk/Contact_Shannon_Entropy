@@ -1,3 +1,6 @@
+# author - Pallab Dutta
+# Year - 2023
+
 import numpy as np
 
 def countbinstr(Arr,binstr):
